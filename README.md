@@ -3,7 +3,7 @@
 
 Earthquakes, a testament to the immense power hidden beneath our feet, have captivated and terrified humanity for millennia. These seismic events, though destructive, hold a fascinating complexity that begs to be understood. This project delves into the depths of historical earthquake data, leveraging the flexibility of Python and the power of machine learning to uncover hidden patterns and explore the potential for predicting earthquake magnitude.
 
-Link for my [Portfolio(Earthquake Data Analysis)](https://vijaikumarsvk.github.io/Earthquake-Analysis)
+Link for my [Portfolio(Earthquake Analysis)](https://vijaikumarsvk.github.io/Earthquake-Analysis)
 
 ## Data and Methodology
 Our journey begins with a rich dataset sourced from [Pakistan Meteorological Department.](https://seismic.pmd.gov.pk/)
